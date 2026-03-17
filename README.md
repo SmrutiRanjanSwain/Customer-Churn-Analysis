@@ -1,0 +1,138 @@
+# Customer Churn Analysis for SaaS Subscription Platform
+📌 Project Overview
+
+This project focuses on analyzing customer churn behavior in a SaaS-based subscription platform. The goal is to identify patterns behind user cancellations, measure retention performance, and provide actionable insights to reduce churn and improve customer lifetime value.
+
+The analysis is performed using SQL Server for data processing and Power BI for visualization.
+
+🎯 Objectives
+
+Calculate and analyze monthly churn rate
+
+Identify high-risk customer segments
+
+Measure customer retention and engagement trends
+
+Evaluate revenue impact due to churn
+
+Provide data-driven recommendations for improving retention
+
+📂 Dataset Description
+
+The dataset simulates a real-world SaaS business with 10,000 users and includes:
+
+1. Users Table
+
+User ID
+
+Signup Date
+
+Country
+
+Acquisition Channel (Ads, Organic, Referral, Social)
+
+Plan Type (Monthly / Yearly)
+
+Age
+
+2. Subscriptions Table
+
+Subscription Start & End Date
+
+Status (Active / Cancelled)
+
+Monthly Price
+
+3. Payments Table
+
+Payment Date
+
+Amount
+
+Payment Status (Success / Failed)
+
+4. User Activity Table
+
+Activity Date
+
+Session Duration
+
+Feature Usage
+
+🛠️ Tools & Technologies
+
+SQL Server – Data generation, transformation, and analysis
+
+Power BI – Dashboard development and visualization
+
+DAX – KPI calculations and metrics
+
+
+### 📊 Key Analysis Performed
+1. Monthly Churn Rate
+
+Calculated churn percentage across months
+
+Identified fluctuations and peak churn periods
+
+2. Churn by Acquisition Channel
+
+Compared retention across marketing channels
+
+Identified channels with higher churn rates
+
+3. Churn by Plan Type
+
+Monthly plans showed higher churn compared to yearly subscriptions
+
+4. Engagement Analysis
+
+Compared session activity between active and churned users
+
+Found lower engagement strongly correlated with churn
+
+5. Revenue Impact
+
+Estimated revenue loss due to customer churn
+
+6. Cohort Analysis
+
+Analyzed retention trends based on user signup month
+
+📈 Key Insights
+
+Average churn rate observed: ~30%, indicating significant customer loss
+
+Users with low engagement were more likely to churn
+
+Monthly subscription users had higher churn compared to yearly users
+
+Certain acquisition channels contributed to lower retention
+
+Failed payments and inactivity acted as early churn indicators
+
+📊 Dashboard Features (Power BI)
+
+Monthly churn trend visualization
+
+Active vs churned user comparison
+
+Revenue and LTV metrics
+
+Engagement analysis
+
+Channel-wise performance breakdown
+
+Cohort retention heatmap
+
+💡 Business Recommendations
+
+Improve user onboarding and engagement strategies
+
+Identify high-risk users early and target them with retention campaigns
+
+Optimize marketing spend by focusing on high-retention channels
+
+Offer incentives for long-term subscription plans
+
+Address payment failures proactively
