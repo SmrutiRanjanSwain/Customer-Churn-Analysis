@@ -1,11 +1,11 @@
 # Customer Churn Analysis for SaaS Subscription Platform
-📌 Project Overview
+### 📌 Project Overview
 
 This project focuses on analyzing customer churn behavior in a SaaS-based subscription platform. The goal is to identify patterns behind user cancellations, measure retention performance, and provide actionable insights to reduce churn and improve customer lifetime value.
 
 The analysis is performed using SQL Server for data processing and Power BI for visualization.
 
-🎯 Objectives
+### 🎯 Objectives
 
 Calculate and analyze monthly churn rate
 
@@ -17,7 +17,7 @@ Evaluate revenue impact due to churn
 
 Provide data-driven recommendations for improving retention
 
-📂 Dataset Description
+### 📂 Dataset Description
 
 The dataset simulates a real-world SaaS business with 10,000 users and includes:
 
@@ -114,7 +114,7 @@ Analyzed retention trends based on user signup month
 <img width="398" height="678" alt="image" src="https://github.com/user-attachments/assets/641f998a-2dba-4ef5-a400-32730cc33617" />
 
 
-📈 Key Insights
+### 📈 Key Insights
 
 Average churn rate observed: ~30%, indicating significant customer loss
 
@@ -126,7 +126,7 @@ Certain acquisition channels contributed to lower retention
 
 Failed payments and inactivity acted as early churn indicators
 
-📊 Dashboard Features (Power BI)
+### 📊 Dashboard Features (Power BI)
 
 Monthly churn trend visualization
 
@@ -140,7 +140,7 @@ Channel-wise performance breakdown
 
 Cohort retention heatmap
 
-💡 Business Recommendations
+### 💡 Business Recommendations
 
 Improve user onboarding and engagement strategies
 
