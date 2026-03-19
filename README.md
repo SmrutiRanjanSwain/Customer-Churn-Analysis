@@ -77,24 +77,28 @@ Calculated churn percentage across months
 
 Identified fluctuations and peak churn periods
 
+<img width="339" height="158" alt="image" src="https://github.com/user-attachments/assets/0b260feb-8cb4-472f-985a-ddd7c33d34a7" />
+
 2. Churn by Acquisition Channel
 
 <img width="310" height="133" alt="image" src="https://github.com/user-attachments/assets/352e3fe9-983e-4ba6-a716-75297fe91843" />
 
 
-Compared retention across marketing channels
-
-Identified channels with higher churn rates
-
 3. Churn by Plan Type
 
 Monthly plans showed higher churn compared to yearly subscriptions
+
+<img width="457" height="80" alt="image" src="https://github.com/user-attachments/assets/4bbf686f-5813-4610-8e87-c4e16069bbcb" />
 
 4. Engagement Analysis
 
 Compared session activity between active and churned users
 
-Found lower engagement strongly correlated with churn
+<img width="341" height="82" alt="image" src="https://github.com/user-attachments/assets/e129883a-6c89-4e60-841c-47f80165732d" />
+
+Found lower engagement strongly correlated with churn:
+
+<img width="499" height="105" alt="image" src="https://github.com/user-attachments/assets/3bd8027d-ab15-4501-816e-2a6bf8b1619c" />
 
 5. Revenue Impact
 
