@@ -73,9 +73,14 @@ DAX – KPI calculations and metrics
 
 Calculated churn percentage across months
 
+<img width="447" height="332" alt="image" src="https://github.com/user-attachments/assets/d08b3d55-7cec-454c-90c3-982b4dacc6c6" />
+
 Identified fluctuations and peak churn periods
 
 2. Churn by Acquisition Channel
+
+<img width="310" height="133" alt="image" src="https://github.com/user-attachments/assets/352e3fe9-983e-4ba6-a716-75297fe91843" />
+
 
 Compared retention across marketing channels
 
@@ -95,9 +100,15 @@ Found lower engagement strongly correlated with churn
 
 Estimated revenue loss due to customer churn
 
+<img width="229" height="63" alt="image" src="https://github.com/user-attachments/assets/c555780f-6fc7-454f-9765-3c9ed2743186" />
+
+
 6. Cohort Analysis
 
 Analyzed retention trends based on user signup month
+
+<img width="398" height="678" alt="image" src="https://github.com/user-attachments/assets/641f998a-2dba-4ef5-a400-32730cc33617" />
+
 
 📈 Key Insights
 
